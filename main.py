@@ -1,6 +1,6 @@
 # Refactor this into different modules(functions) and import them into main.py.
 # in other words, abstract these...
-# from comparison_operators import *
+from comparison_operators import *
 # from enumerator import *
 # from if_statements import *
 # from list_comprehension import *
@@ -11,7 +11,7 @@ from logical_operators import *
 # from while_loops import *
 # from zip_in_python import *
 
-# comparison_operators()
+comparison_operators()
 # enumerator()
 # if_statements()
 # list_comprehension()

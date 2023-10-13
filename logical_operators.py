@@ -35,3 +35,5 @@ def logical_operators():
   print("The word 'success' was found in the sentence:" ,word1_found)
   word2_found = word2 in sentence
   print("The word 'technology' was found in the sentence:" ,word2_found)
+  
+  print(" ")
